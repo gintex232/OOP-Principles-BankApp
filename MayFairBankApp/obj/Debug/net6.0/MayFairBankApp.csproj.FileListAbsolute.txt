@@ -1,0 +1,14 @@
+C:\Users\GINTEX\Desktop\My Projects\MayFairBankApp\MayFairBankApp\bin\Debug\net6.0\MayFairBankApp.exe
+C:\Users\GINTEX\Desktop\My Projects\MayFairBankApp\MayFairBankApp\bin\Debug\net6.0\MayFairBankApp.deps.json
+C:\Users\GINTEX\Desktop\My Projects\MayFairBankApp\MayFairBankApp\bin\Debug\net6.0\MayFairBankApp.runtimeconfig.json
+C:\Users\GINTEX\Desktop\My Projects\MayFairBankApp\MayFairBankApp\bin\Debug\net6.0\MayFairBankApp.dll
+C:\Users\GINTEX\Desktop\My Projects\MayFairBankApp\MayFairBankApp\bin\Debug\net6.0\MayFairBankApp.pdb
+C:\Users\GINTEX\Desktop\My Projects\MayFairBankApp\MayFairBankApp\obj\Debug\net6.0\MayFairBankApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GINTEX\Desktop\My Projects\MayFairBankApp\MayFairBankApp\obj\Debug\net6.0\MayFairBankApp.AssemblyInfoInputs.cache
+C:\Users\GINTEX\Desktop\My Projects\MayFairBankApp\MayFairBankApp\obj\Debug\net6.0\MayFairBankApp.AssemblyInfo.cs
+C:\Users\GINTEX\Desktop\My Projects\MayFairBankApp\MayFairBankApp\obj\Debug\net6.0\MayFairBankApp.csproj.CoreCompileInputs.cache
+C:\Users\GINTEX\Desktop\My Projects\MayFairBankApp\MayFairBankApp\obj\Debug\net6.0\MayFairBankApp.dll
+C:\Users\GINTEX\Desktop\My Projects\MayFairBankApp\MayFairBankApp\obj\Debug\net6.0\refint\MayFairBankApp.dll
+C:\Users\GINTEX\Desktop\My Projects\MayFairBankApp\MayFairBankApp\obj\Debug\net6.0\MayFairBankApp.pdb
+C:\Users\GINTEX\Desktop\My Projects\MayFairBankApp\MayFairBankApp\obj\Debug\net6.0\MayFairBankApp.genruntimeconfig.cache
+C:\Users\GINTEX\Desktop\My Projects\MayFairBankApp\MayFairBankApp\obj\Debug\net6.0\ref\MayFairBankApp.dll
